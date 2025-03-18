@@ -15,4 +15,5 @@ Then your timer  will start and when your focus  durztion time over it will auto
 This will continue for  the number of session  you entered.
 
 I hope it will make a result in your daily life.
+
 Increse Your Focus.
